@@ -1,5 +1,5 @@
 ######################################################################
-# Author: Dr. Scott Heggen              TODO: Change this to your name, if modifying
+# Author: Iransi, Jackson, Fidelia             TODO: Change this to your name, if modifying
 # Username: heggens                     TODO: Change this to your username, if modifying
 #
 # Assignment: T02: Exploring Turtles in Python
