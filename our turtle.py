@@ -1,4 +1,4 @@
-
+#Jennifer Bertrina Micheala
 
 import turtle
 wn = turtle.Screen()
